@@ -1,2 +1,2 @@
 # BirthdayGreet-App
-This is my first Android app in Kotlin :)
+This is a simple Android application built with Android Studio.
